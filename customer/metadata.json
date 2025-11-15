@@ -1,0 +1,5 @@
+{
+  "name": "KLINK - Buyer Journey",
+  "description": "The public-facing payment flow for KLINK, allowing buyers to pay for products via a simple link without registration. This is an MVP for the IDDA Hackathon 1.",
+  "requestFramePermissions": []
+}
